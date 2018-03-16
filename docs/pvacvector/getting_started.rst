@@ -5,7 +5,7 @@
 Getting Started
 ---------------
 
-pVACvector provides a set of example data to show the expected input and output files. You can download the data set by running the ``pvacfuse download_example_data`` :ref:`command <pvacvector_example_data>`.
+pVACvector provides a set of example data to show the expected input and output files. You can download the data set by running the ``pvacvector download_example_data .`` :ref:`command <pvacvector_example_data>`.
 
 There are two option as to how to run pVACvector depending on the input file
 type used. You can either use a pVACseq output TSV of neoepitopes or a FASTA
